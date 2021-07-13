@@ -16,7 +16,7 @@
   
   ## Languages
 
-  ![](https://img.shields.io/badge/Python-Proficient-brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen) ![](https://img.shields.io/badge/HTML-Fluent-brightgreen?style=for-the-badge&logo=html5&logoColor=brightgreen) ![](https://img.shields.io/badge/CSS-Fluent-brightgreen?style=for-the-badge&logo=css3&logoColor=brightgreen) ![](https://img.shields.io/badge/JavaScript-Fluent-brightgreen?style=for-the-badge&logo=javascript&logoColor=brightgreen)
+  ![](https://img.shields.io/badge/Python-Proficient-brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen) ![](https://img.shields.io/badge/HTML-Fluent-brightgreen?style=for-the-badge&logo=html5&logoColor=brightgreen) ![](https://img.shields.io/badge/CSS-Fluent-brightgreen?style=for-the-badge&logo=css3&logoColor=brightgreen) ![](https://img.shields.io/badge/JavaScript-Fluent-brightgreen?style=for-the-badge&logo=javascript&logoColor=brightgreen) ![](https://img.shields.io/badge/Rust-Learning-brightgreen?style=for-the-badge&logo=rust&logoColor=brightgreen)
 
 
   ## Tools
