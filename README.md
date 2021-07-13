@@ -3,7 +3,7 @@
 
   # ✋ A bit about me
 
-  ‣ Hey! I'm Logan, an aspiring backend engineer with a love for sockets and inter-process communication. I'm from england and currently freelancing while I finish my studies.
+  ‣ Hey! I'm Logan, a 17 year old aspiring backend engineer with a love for sockets and inter-process communication. I'm from england and currently freelancing while I finish my studies.
 
 
   # 🤖 My hobbies
